@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Leaderboard</string>
+    <string name="gads_splash_icon_desc">GADS Splash Icon</string>
+    <string name="submit">Submit</string>
+    <string name="submit_lg">SUBMIT</string>
+    <string name="learners_tab_title">Learning Leaders</string>
+    <string name="skills_tab_title">Skill IQ Leaders</string>
+    <string name="learning_hours_completer"> learning hours, </string>
+    <string name="skill_score_completer"> skill IQ score, </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello First fragment</string>
+    <string name="top_learner_badge_desc">Top Learner Badge</string>
+    <string name="loading">Loading...</string>
+    <string name="back_button">Back button</string>
+    <string name="logo_desc">GADS Logo</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="project_link_on_github">Project on GITHUB (link)</string>
+    <string name="enter_your_email_address">Email Address</string>
+    <string name="enter_first_name">First Name</string>
+    <string name="enter_your_last_name">Last Name</string>
+    <string name="submit_dialog_cancel_button">Submit dialog cancel button</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="submit_confirm_yes">Yes</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+</resources>
